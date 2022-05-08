@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878402738612",
+    "project_id": "flash-chat-ded03",
+    "storage_bucket": "flash-chat-ded03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878402738612:android:56e569cb9af58229707ae1",
+        "android_client_info": {
+          "package_name": "com.babyfaceyoung.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878402738612-cqlkhjc7nhoq677iv7akv65kptuv4nmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUARtjR_ynwbhM160GaPSgPDqajsQtqRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878402738612-cqlkhjc7nhoq677iv7akv65kptuv4nmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
